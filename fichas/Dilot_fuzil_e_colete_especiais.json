@@ -1,0 +1,38 @@
+{
+  "nome_do_personagem": "Dilot",
+  "versao": "Fuzil de precisão e colete como Equipamentos",
+  "pontos": 18,
+  "caracteristicas": {
+    "forca": 0,
+    "habilidade": 5,
+    "resistencia": 4,
+    "armadura": 0,
+    "poder_de_fogo": 4
+  },
+  "pontos_de_vida": {
+    "total": 20,
+    "atuais": 20
+  },
+  "pontos_de_mana": {
+    "total": 20,
+    "atuais": 20
+  },
+  "pontos_de_experiencia": 0,
+  "vantagens": [
+    "Projéteis Curativos de Luz (2 pontos, talento personalizado sujeito à aprovação): uma ação, alcance normal de PdF, 2 PM por 1d PV; não combina com Tiro Múltiplo.",
+    "Equipamento (2 pontos; opção do Manual do Defensor): fuzil construído com 8 pontos de equipamento (PdF5, Tiro Múltiplo e Tiro Carregável). Pressupõe personagem Campeão de 10 pontos: o primeiro ponto dá ao item a categoria inferior (7 pontos) e o segundo eleva o orçamento para a seguinte (10 pontos). O item funciona como Parceiro; os efeitos ficam condicionados a estar usando o fuzil. Munição Limitada é obrigatória para o item; estimativa de 15 tiros (3 x PdF5), com recuperação definida pelo mestre.",
+    "Equipamento (1 ponto; opção do Manual do Defensor): colete de proteção construído com 5 pontos de equipamento, conforme o exemplo publicado; concede A2 e Armadura Extra contra corte e perfuração. Até 6 usos/impactos defendidos, conforme o exemplo do suplemento. Usos e recuperação dependem do mestre."
+  ],
+  "desvantagens": [
+    "Marcas das vidas anteriores (3 pontos no total, conforme a regra da Missão 5; custos e efeitos individuais a validar): maldição que atingiu a alma, perda de empatia após massacre e fobia de natureza após a morte por plantas carnívoras.",
+    "Código dos Heróis (-1 ponto).",
+    "Devoção (-1 ponto): descobrir a origem da maldição; aplicar a penalidade normal quando a atividade não tiver relação com a busca.",
+    "Fetiche (-1 ponto): rifle e mira são o foco dos projéteis curativos.",
+    "Munição Limitada (-1 ponto): 12 disparos convencionais para PdF4 do personagem. O fuzil especial tem limite próprio, contado separadamente.",
+    "Má Fama (-1 ponto): hipótese baseada no registro de fracasso; precisa de confirmação, especialmente por a missão ser sigilosa."
+  ],
+  "tipos_de_dano": "PdF4 próprio mantém o tipo definido na ficha base. O fuzil especial tem PdF5; o tipo deve ser definido com o mestre, considerando que luz não é um tipo de dano listado no manual. Adaptador foi removido nesta variante.",
+  "magias_conhecidas": "Projéteis Curativos de Luz é uma adaptação personalizada da Cura Mágica básica; não concede acesso geral à Magia Branca.",
+  "dinheiro_e_itens": "Rifle NT9 especial e colete especial dependem da vantagem opcional Equipamento do Manual do Defensor e aprovação do mestre. Rádio, capacete, kit médico e equipamento militar comum podem ser fornecidos pelo Império, sem bônus mecânico automático. Os usos limitados do rifle e do colete são independentes.",
+  "historia": "Dilot é atirador do Time 0 e manifesta o conceito de Luz. Esta variante troca Tiro Múltiplo e Adaptador por dois itens especiais: fuzil de precisão e colete tático. O fuzil melhora PdF de 4 para 5 e mantém tiro múltiplo, mas seus tiros são limitados; o colete oferece A2 e proteção adicional contra corte e perfuração, também limitada. Gasto em características: 13; vantagens pagas: 5; total: 18 pontos."
+}

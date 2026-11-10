@@ -20,19 +20,19 @@
   "vantagens": [
     "Tiro Múltiplo (2 pontos): pode fazer até 5 ataques à distância em uma ação; cada ataque custa 1 PM e tem sua própria FA.",
     "Adaptador (1 ponto): pode mudar o tipo de dano do PdF sem penalidade, útil contra constructos resistentes a perfuração comum.",
-    "Projéteis Curativos de Luz (2 pontos, talento personalizado): como uma ação, dispara luz contra um aliado visível dentro do alcance normal de PdF; cada 2 PM gastos curam 1d PV. Não causa dano, não exige jogada de ataque e não pode ser combinado com Tiro Múltiplo. Concede apenas esta cura básica, não acesso geral à Magia Branca.",
+    "Equipamento (1 ponto): Modulo de Luz Curativa de 7 pontos, descrito em Equipamento_Dilot_Modulo_de_Luz_Curativa.json. Substitui o talento personalizado de projéteis curativos; custo reduzido em 1 ponto.",
     "Kit Arqueiro (opcional, custo 0, se permitido pelo mestre): escolher Chuva de Disparos reduz pela metade, arredondado para cima, o custo em PM de Tiro Múltiplo."
   ],
   "desvantagens": [
     "Marcas das vidas anteriores (3 pontos no total, conforme a regra da Missão 5; custos individuais e efeitos a validar com o mestre): maldição de mago que atingiu a alma (missão 2); perda de empatia após um massacre (missão 3); fobia de natureza após morrer por plantas carnívoras (missão 4).",
     "Código dos Heróis (-1 ponto): protege pessoas mais fracas e não recusa pedidos de ajuda.",
     "Devoção (-1 ponto): descobrir a origem da maldição que atingiu sua alma; fora de situações ligadas a essa busca, aplica-se a penalidade normal da desvantagem.",
-    "Fetiche (-1 ponto): o rifle e sua mira canalizam os projéteis curativos; sem esse foco, Dilot não pode usar essa magia.",
+    "Fetiche (-1 ponto): o Modulo de Luz Curativa acoplado ao rifle canaliza as magias de cura; sem esse foco, Dilot não pode usa-las.",
     "Munição Limitada (-1 ponto): a arma convencional tem 12 disparos (3 x PdF 4); os projéteis curativos consomem PM, não munição física.",
     "Má Fama (-1 ponto): o registro sigiloso da missão anterior fracassada gera desconfiança entre os superiores com acesso ao arquivo."
   ],
   "tipos_de_dano": "PdF normalmente de energia/luz; Adaptador permite variar o tipo de dano para contornar resistências, conforme aprovação do mestre.",
-  "magias_conhecidas": "Cura Mágica básica aprendida pelo grupo na missão 3, adaptada como Projéteis Curativos de Luz. Regra da casa: alcance normal de PdF, 2 PM por 1d PV, uma ação e um aliado por uso; não combina com Tiro Múltiplo.",
-  "dinheiro_e_itens": "Rifle de serviço NT9 com mira (também usado como foco mágico), 12 disparos de munição convencional, colete balístico, capacete, rádio criptografado e kit médico. Equipamento fornecido pelo Império, sujeito à aprovação do mestre; armadura não altera A sem definição mecânica da mesa.",
-  "historia": "Dilot é um atirador do Time 0 e manifesta o conceito de Luz, sem precisar ser devoto de uma divindade. Um século após a vida anterior, ainda carrega a maldição que atingiu sua alma, a falta de empatia surgida após um massacre e a fobia de natureza que nasceu de sua morte por plantas carnívoras. Converteu sua habilidade de tiro em suporte: dispara projéteis luminosos que fecham ferimentos, mas precisa do rifle como foco. Construção: 10 pontos iniciais + 8 pontos de desvantagens da campanha = 18 pontos."
+  "magias_conhecidas": "Cura Mágica básica obtida pelo grupo na missão 3, lançada através do Modulo de Luz Curativa. Pela regra oficial, exige Magia Branca e Clericato, custa 2 PM por 1d PV e tem alcance toque. O módulo estende esse toque ate 20 m por Membros Elasticos se o mestre aprovar. Nao ha teto personalizado de 5 PM; vale a regra normal de magia conforme a Habilidade de Dilot.",
+  "dinheiro_e_itens": "Rifle de serviço NT9 com mira e Modulo de Luz Curativa acoplado, 12 disparos de munição convencional, colete balístico, capacete, rádio criptografado e kit médico. Equipamento fornecido pelo Império, sujeito à aprovação do mestre; armadura não altera A sem definição mecânica da mesa.",
+  "historia": "Dilot é um atirador do Time 0 e manifesta o conceito de Luz, sem precisar ser devoto de uma divindade. Um século após a vida anterior, ainda carrega a maldição que atingiu sua alma, a falta de empatia surgida após um massacre e a fobia de natureza que nasceu de sua morte por plantas carnívoras. Seu rifle possui um módulo de luz curativa articulado, capaz de conduzir Cura Mágica a aliados dentro do alcance acordado com o mestre. A ficha tem 1 ponto de personagem não alocado após a redução de custo do equipamento; construção: 10 pontos iniciais + 8 pontos de desvantagens da campanha = 18 pontos."
 }

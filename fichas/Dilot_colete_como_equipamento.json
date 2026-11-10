@@ -1,0 +1,38 @@
+{
+  "nome_do_personagem": "Dilot",
+  "versao": "Colete tático como Equipamento",
+  "pontos": 18,
+  "caracteristicas": {
+    "forca": 0,
+    "habilidade": 5,
+    "resistencia": 4,
+    "armadura": 0,
+    "poder_de_fogo": 4
+  },
+  "pontos_de_vida": {
+    "total": 20,
+    "atuais": 20
+  },
+  "pontos_de_mana": {
+    "total": 20,
+    "atuais": 20
+  },
+  "pontos_de_experiencia": 0,
+  "vantagens": [
+    "Tiro Múltiplo (2 pontos): até 5 ataques à distância em uma ação; cada disparo custa 1 PM e tem sua própria FA.",
+    "Projéteis Curativos de Luz (2 pontos, talento personalizado sujeito à aprovação): uma ação, alcance normal de PdF, 2 PM por 1d PV; não combina com Tiro Múltiplo.",
+    "Equipamento (1 ponto; opção do Manual do Defensor): colete de proteção construído com 5 pontos de equipamento, conforme o exemplo publicado; concede A2 e Armadura Extra contra corte e perfuração. Até 6 usos/impactos defendidos, conforme o exemplo do suplemento. Usos e recuperação dependem do mestre."
+  ],
+  "desvantagens": [
+    "Marcas das vidas anteriores (3 pontos no total, conforme a regra da Missão 5; custos e efeitos individuais a validar): maldição que atingiu a alma, perda de empatia após massacre e fobia de natureza após a morte por plantas carnívoras.",
+    "Código dos Heróis (-1 ponto).",
+    "Devoção (-1 ponto): descobrir a origem da maldição; aplicar a penalidade normal quando a atividade não tiver relação com a busca.",
+    "Fetiche (-1 ponto): rifle e mira são o foco dos projéteis curativos.",
+    "Munição Limitada (-1 ponto): 12 disparos convencionais (3 x PdF 4).",
+    "Má Fama (-1 ponto): hipótese baseada no registro de fracasso; precisa de confirmação, especialmente por a missão ser sigilosa."
+  ],
+  "tipos_de_dano": "O PdF4 do personagem mantém o tipo escolhido na ficha base. O rifle é equipamento narrativo. O colete protege mecanicamente contra corte e perfuração, sujeito à regra opcional de Equipamento e à aprovação do mestre.",
+  "magias_conhecidas": "Projéteis Curativos de Luz é uma adaptação personalizada da Cura Mágica básica; não concede acesso geral à Magia Branca.",
+  "dinheiro_e_itens": "Rifle NT9 de serviço, munição convencional, rádio e kit médico como equipamento militar comum. Colete tático com efeito mecânico A2 e Armadura Extra contra corte e perfuração é a opção de Equipamento do Manual do Defensor; não some os dois tratamentos do colete. Se o mestre fornecer colete comum sem usar Equipamento, mantenha a ficha base e não substitua Adaptador.",
+  "historia": "Dilot é atirador do Time 0 e manifesta o conceito de Luz. Esta variante mantém a build de cura e tiro múltiplo, mas troca Adaptador por um colete especial representado pela vantagem opcional Equipamento. Gasto em características: 13; vantagens pagas: 5; total: 18 pontos."
+}

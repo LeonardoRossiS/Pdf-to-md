@@ -1,0 +1,39 @@
+{
+  "nome": "Modulo de Luz Curativa",
+  "portador": "Dilot",
+  "tipo": "Equipamento especial (vantagem Equipamento, opcao do Manual do Defensor)",
+  "custo_para_Dilot": 1,
+  "categoria_do_portador": "Campeao, 10 pontos iniciais",
+  "orcamento_do_equipamento": 7,
+  "caracteristicas": {
+    "forca": 2,
+    "habilidade": 0,
+    "resistencia": 0,
+    "armadura": 0,
+    "poder_de_fogo": 0
+  },
+  "vantagens_do_equipamento": [
+    "Magia Branca (2 pontos)",
+    "Clericato (1 ponto)",
+    "Membros Elasticos (1 ponto)",
+    "Usos Ampliados (+1 ponto): dobra os usos do equipamento."
+  ],
+  "desvantagens_do_equipamento": [
+    "Municao Limitada: obrigatoria para Equipamento; nao concede pontos adicionais."
+  ],
+  "calculo_de_pontos": {
+    "caracteristicas": "F2 + H0 + R0 + A0 + PdF0 = 2 pontos",
+    "vantagens": "Magia Branca 2 + Clericato 1 + Membros Elasticos 1 + Usos Ampliados 1 = 5 pontos",
+    "total": "2 + 5 = 7 pontos de equipamento",
+    "custo_do_portador": "Equipamento 1 custa 1 ponto de personagem e fornece o orcamento de 7 pontos de equipamento, uma categoria abaixo de Campeao (10 pontos)."
+  },
+  "regras_de_uso": {
+    "integracao": "Funciona como Parceiro enquanto equipado e usado por Dilot; o item nao age sozinho. Pelas regras de Equipamento, usam-se as caracteristicas mais altas entre portador e item.",
+    "alcance_de_membros_elasticos": "F2 permite alcance maximo de 20 m, usando a tabela de alcance de PdF aplicada a Forca.",
+    "cura": "Cura Magica oficial: 2 PM por 1d PV, alcance toque, requer Magia Branca e Clericato. Estender o toque ate 20 m com Membros Elasticos e uma interpretacao acordada com o mestre; a magia nao vira ataque de PdF.",
+    "usos": "12 usos por carga: F2 fornece 6 usos (3 x F), dobrados por Usos Ampliados. O mestre define como e quando recarregar.",
+    "pontos_de_mana": "Equipamentos nao possuem PM proprios pela regra de Equipamento; Dilot paga as magias com os proprios PM. O R do modulo e 0 e nao altera os 20 PM de Dilot."
+  },
+  "recarga": "A recuperacao dos usos fica a criterio do mestre; sugestao: recarregar entre cenas ou no inicio de cada missao. PM de Dilot recuperam-se pelas regras normais.",
+  "aparencia_e_historia": "Um modulo acoplado ao rifle de Dilot, com um apendice articulado de luz que se estende para tocar um aliado e conduzir a Cura Magica."
+}
